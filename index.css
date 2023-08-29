@@ -1,0 +1,30 @@
+@media screen {
+.background{height:200px;}
+.pleft{padding-left: 300px;}
+}
+.logo{
+font-size: 30px;
+font-weight: bold;
+border: 2px solid;
+border-color: #4b6cc1;
+color: white;
+width: 50px;
+height: 60px;
+text-align: center;
+}
+.background-light{
+background-color: #9aa5b1 !important;
+}
+a{
+color: white !important;
+font-weight: 30px;
+}
+.background{
+background-color: #191a1d;
+height: 200vh;
+width: auto;
+background-size: cover;
+}
+.centerr{
+padding: 200px 20px 40px 10px;
+}
